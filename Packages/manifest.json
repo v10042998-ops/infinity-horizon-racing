@@ -1,0 +1,21 @@
+{
+  "name": "com.unity.template.2d",
+  "displayName": "2D Template",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Infinity Horizon Racing - Unity Package Configuration",
+  "keywords": [
+    "racing",
+    "game",
+    "vehicle",
+    "physics",
+    "procedural"
+  ],
+  "category": "Game",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "14.0.8",
+    "com.unity.inputsystem": "1.7.0",
+    "com.unity.textmeshpro": "3.0.6",
+    "com.unity.addressables": "1.21.17"
+  }
+}
